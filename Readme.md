@@ -18,7 +18,7 @@ The flowchart of Gated-S2R-PCP is shown as follows.
 <p align="center">Fig. 2. The flowchart of Gated-S2R-PCP.</p>
 
 <b>b) Code:</b>
-The code can be downloaded from [here](https://github.com/JWFanggit/Gated-S2R-PCP). (Extraction code:ljhq). 
+The code can be downloaded from [here](https://pan.baidu.com/s/17IqCSb0VoTp8br-jxE3Csg ). (Extraction code:ljhq). 
 
 To run the ```main.py```, the training phase can be conducted.
 
